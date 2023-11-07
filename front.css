@@ -1,0 +1,36 @@
+body{
+    background-color: rgb(255, 255, 255);
+}
+
+li{
+    display: inline;
+    padding: 8px;
+    position: left
+}
+
+nav{
+    float: left;
+    position: relative;
+}
+*ul.Logo{
+
+}
+ul{
+    float: left;
+}
+
+button{
+    border: none;
+    outline: none;
+    background: rgb(228, 74, 47);
+    color: #ffffff;
+    cursor: pointer;
+    border-radius: 15px;
+    position: relative;
+}
+button::selection{
+    background: #2c63fa;
+}
+
+padding: 10px 30px;
+font-size: 8px;
